@@ -6,7 +6,7 @@ Me muevo en tecnología con una idea simple: entender cómo funcionan las cosas 
 
 Me interesa el momento en que la tecnología deja de ser teoría y resuelve algo concreto: un proceso que se automatiza, un error que se detecta a tiempo, una herramienta que le ahorra trabajo a alguien.
 
-**Portfolio:** [[tu-landing.com][((https://matisznn.vercel.app/))]
+**Portfolio:** [((https://matisznn.vercel.app/))]
 
 ## Stack
 
