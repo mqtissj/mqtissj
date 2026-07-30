@@ -1,16 +1,28 @@
-## Hi there 👋
+# Matías Filgueiras
 
-<!--
-**mqtissj/mqtissj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de informática y desarrollador en formación. Montevideo, Uruguay.
 
-Here are some ideas to get you started:
+Me muevo en tecnología con una idea simple: entender cómo funcionan las cosas por dentro. Aprendo construyendo, probando y corrigiendo — más por curiosidad que por obligación. Lo que subo acá es parte de ese proceso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa el momento en que la tecnología deja de ser teoría y resuelve algo concreto: un proceso que se automatiza, un error que se detecta a tiempo, una herramienta que le ahorra trabajo a alguien.
+
+**Portfolio:** [[tu-landing.com][((https://matisznn.vercel.app/))]
+
+## Stack
+
+`Java` `C#` `JavaScript` `Python (básico)` `HTML` `CSS` `SQL` `Git`
+
+Además trabajo con herramientas de IA aplicadas a automatización y productividad.
+
+En qué estoy
+Formándome en programación, estructuras de datos, algoritmos y bases de datos
+Practicando calidad de software y testing
+Explorando automatización e integración de IA en procesos reales
+Sumando experiencia en equipos y proyectos de tecnología
+Cómo trabajo
+
+Constancia antes que atajos. Si algo no sale, lo desarmo y lo intento de nuevo hasta entenderlo. Prefiero avanzar de forma sostenida y aprender bien, en lugar de resolver rápido y a medias.
+
+## Contacto
+
+[LinkedIn](https://linkedin.com/in/matiszn) · filgueirasmatiasf@gmail.com · Montevideo, Uruguay
