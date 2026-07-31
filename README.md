@@ -4,6 +4,8 @@ Estudiante de informática y desarrollador en formación. Montevideo, Uruguay.
 
 Me muevo en tecnología con una idea simple: entender cómo funcionan las cosas por dentro. Aprendo construyendo, probando y corrigiendo — más por curiosidad que por obligación. Lo que subo acá es parte de ese proceso.
 
+Actualmente desarrollando RoutesEV.
+
 Me interesa el momento en que la tecnología deja de ser teoría y resuelve algo concreto: un proceso que se automatiza, un error que se detecta a tiempo, una herramienta que le ahorra trabajo a alguien.
 
 **Portfolio:** https://matisznn.vercel.app/
