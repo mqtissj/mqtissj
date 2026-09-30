@@ -16,10 +16,10 @@ Me interesa el momento en que la tecnología deja de ser teoría y resuelve algo
 
 Además trabajo con herramientas de IA aplicadas a automatización y productividad.
 
-En qué estoy
-Formándome en programación, estructuras de datos, algoritmos y bases de datos
-Practicando calidad de software y testing
-explorando automatización e integración de IA en procesos reales
+En qué estoy: 
+Formándome en programación, estructuras de datos, algoritmos y bases de datos,
+practicando calidad de software y testing,
+explorando automatización e integración de IA en procesos reales y
 sumando experiencia en equipos y proyectos de tecnología
 cómo trabajo
 
