@@ -1,6 +1,6 @@
 # Matías Filgueiras
 
-Estudiante de informática y desarrollador en formación. Montevideo, Uruguay.
+Programador Web y estudiante de Analista en Tecnologias de la Informacion. Montevideo, Uruguay.
 
 Me muevo en tecnología con una idea simple: entender cómo funcionan las cosas por dentro. Aprendo construyendo, probando y corrigiendo — más por curiosidad que por obligación. Lo que subo acá es parte de ese proceso.
 
