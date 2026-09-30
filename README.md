@@ -19,9 +19,9 @@ Además trabajo con herramientas de IA aplicadas a automatización y productivid
 En qué estoy
 Formándome en programación, estructuras de datos, algoritmos y bases de datos
 Practicando calidad de software y testing
-Explorando automatización e integración de IA en procesos reales
-Sumando experiencia en equipos y proyectos de tecnología
-Cómo trabajo
+explorando automatización e integración de IA en procesos reales
+sumando experiencia en equipos y proyectos de tecnología
+cómo trabajo
 
 Constancia antes que atajos. Si algo no sale, lo desarmo y lo intento de nuevo hasta entenderlo. Prefiero avanzar de forma sostenida y aprender bien, en lugar de resolver rápido y a medias.
 
