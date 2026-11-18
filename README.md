@@ -10,21 +10,6 @@ Me interesa el momento en que la tecnología deja de ser teoría y resuelve algo
 
 **Portfolio:** https://www.matiszn.space/
 
-## Stack
-
-`Java` `C#` `JavaScript` `Python (básico)` `HTML` `CSS` `SQL` `Git`
-
-Además trabajo con herramientas de IA aplicadas a automatización y productividad.
-
-En qué estoy: 
-Formándome en programación, estructuras de datos, algoritmos y bases de datos,
-practicando calidad de software y testing,
-explorando automatización e integración de IA en procesos reales y
-sumando experiencia en equipos y proyectos de tecnología
-cómo trabajo
-
-Constancia antes que atajos. Si algo no sale, lo desarmo y lo intento de nuevo hasta entenderlo. Prefiero avanzar de forma sostenida y aprender bien, en lugar de resolver rápido y a medias.
-
 ## Contacto
 
 [LinkedIn](https://linkedin.com/in/matiszn) · filgueirasmatiasf@gmail.com · Montevideo, Uruguay
